@@ -65,7 +65,8 @@
 
 @media (max-width: 991px){
     html {
-        font-size: 52.5%;
+      font-size: 52.5%;
+      overflow-x: hidden;
     }
     body{
     font-family: 'Poppins', sans-serif;
