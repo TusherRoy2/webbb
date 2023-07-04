@@ -67,6 +67,12 @@
     html {
         font-size: 52.5%;
     }
+    body{
+    font-family: 'Poppins', sans-serif;
+    overflow-y:auto;
+    overflow-x:hidden !important;
+    scroll-behavior:smooth;
+    }
 
     .scrollBtn {
         position: fixed;
